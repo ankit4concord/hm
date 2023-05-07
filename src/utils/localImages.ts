@@ -1,0 +1,26 @@
+const fixedPath = '../assets/images'
+export default {
+  loader: require(`${fixedPath}/hm-loading.gif`),
+  ellipsis: require(`${fixedPath}/ellipsis.gif`),
+  radio_selected: require(`${fixedPath}/radio_selected.png`),
+  radio_unselected: require(`${fixedPath}/radio_unselected.png`),
+  hallmark_logo: require(`${fixedPath}/Hallmark_logo.png`),
+  hallmark_logo_white: require(`${fixedPath}/hallmark-logo-white.png`),
+  loaderCustomization: require(`${fixedPath}/loader_customization.png`),
+  rotateSvg: require(`${fixedPath}/rotateS.png`),
+  zoomSlider: require(`${fixedPath}/zoom_slider.png`),
+  rotateGif: require(`${fixedPath}/Pinch_Rotate_Zoom.json`),
+  onboarding: require(`${fixedPath}/Onboarding_Step1.json`),
+  onboarding2Lottie: require(`${fixedPath}/onboarding_step2.json`),
+  rotateIcon: require(`${fixedPath}/rotateIcon.png`),
+  howItWorks: require(`${fixedPath}/how_it_works.png`),
+  paypal: require(`${fixedPath}/paypal.png`),
+  promoCodeIcon: require(`${fixedPath}/promoCodeIcon.png`),
+  onboarding1: require(`${fixedPath}/onboarding1.png`),
+  onboarding2: require(`${fixedPath}/onboarding2.png`),
+  onboarding3: require(`${fixedPath}/onboarding3.png`),
+  onboarding4: require(`${fixedPath}/onboarding4.png`),
+  splashScreen: require(`${fixedPath}/Splash_Loader.json`),
+  inAppLoaderPreview: require(`${fixedPath}/In_app_Loader.gif`),
+  noImage: require(`${fixedPath}/no-image.png`)
+}

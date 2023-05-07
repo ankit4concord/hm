@@ -1,0 +1,19 @@
+{
+  "screen_content": {
+      "homepage": {
+        "home_search_placeholder": "Search by occasion",
+        "all_text":"All"
+      },
+      "clp":{
+        "cards_text":"cards"
+      },
+      "plp":{
+        "empty_card_text":"0 Cards",
+        "cards_text_capitalized":"Cards"
+      },
+      "search": {
+        "search_page_title":"What are you looking for?",
+        "search_page_loading_text":"Are you looking for..."
+      }
+    }
+}
